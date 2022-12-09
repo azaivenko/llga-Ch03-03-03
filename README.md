@@ -1,5 +1,5 @@
 # Passing arguments to an action
-
+[![Build Tomcat](https://github.com/azaivenko/llga-Ch03-03-03/actions/workflows/build-tomcat.yml/badge.svg)](https://github.com/azaivenko/llga-Ch03-03-03/actions/workflows/build-tomcat.yml)
 In this lesson, arguments are passed to the following actions:
 
 - [actions/checkout](https://github.com/actions/checkout)
